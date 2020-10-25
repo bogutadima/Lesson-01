@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="weather_today">Сегодня</string>
+    <string name="weather_tomorrow">Завтра</string>
+</resources>
