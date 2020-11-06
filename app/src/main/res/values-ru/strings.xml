@@ -4,4 +4,16 @@
     <string name="weather_today">Сегодня</string>
     <string name="weather_tomorrow">Завтра</string>
     <string name="city_selection">Город</string>
+
+    ----Sities----
+    <string-array name="cities">
+        <item name="moskow">Москва</item>
+        <item name="saint_petersburg">Санкт-Петербург</item>
+        <item name="novosibirsk">Новосибирск</item>
+        <item name="ekaterinburg">Екатеринбург</item>
+        <item name="vladivostok">Владивосток</item>
+        <item name="sochi">Сочи</item>
+        <item name="krasnodar">Краснодар</item>
+        <item name="bukhalovo">Бухалово</item>
+    </string-array>
 </resources>

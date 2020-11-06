@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="text_of_days_size">20sp</dimen>
-    <string-array name="cities">
-        <item>Moskow</item>
-        <item>Saint Petersburg</item>
-        <item>Novosibirsk</item>
-        <item>Ekaterinburg</item>
-        <item>Vladivostok</item>
-        <item>Sochi</item>
-        <item>Krasnodar</item>
-        <item>Bukhalovo</item>
-    </string-array>
 </resources>

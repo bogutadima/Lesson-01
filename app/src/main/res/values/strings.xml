@@ -3,4 +3,16 @@
     <string name="weather_today">Today</string>
     <string name="weather_tomorrow">Tomorrow</string>
     <string name="city_selection">City</string>
+
+    ----Cities----
+    <string-array name="cities">
+        <item name="moskow">Moskow</item>
+        <item name="saint_petersburg">Saint-Petersburg</item>
+        <item name="novosibirsk">Novosibirsk</item>
+        <item name="ekaterinburg">Ekaterinburg</item>
+        <item name="vladivostok">Vladivostok</item>
+        <item name="sochi">Sochi</item>
+        <item name="krasnodar">Krasnodar</item>
+        <item name="bukhalovo">Bukhalovo</item>
+    </string-array>
 </resources>
